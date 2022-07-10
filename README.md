@@ -15,13 +15,13 @@ Görevler:
 7) Sağ üst menüyü sm boyutunda kaybolacak şekilde display verme
 8) İçerik alanına offset ve margin verme
 9) Col defult 12, diğer tüm değerler 6 verme
-10)Hikayeler kısmındaki resim ve isimleri hizalama
-11)İçerik kısmında üç nokta sağa yerleştirme
-12)Beğenme, yorum ve paylaşma kısmından border kaldırma
-13)Bookmark ikonunun offseti 7 birim verme
-14)Card header ve card footer beyaz renk yapma
-15)Yorum paylaş metnini sağa yerleştirme
-16)Sağ panel genişliğini düzenleme
-17)Sağ paneli sticky yapma, border kaldırıp arka planı beyaz yapma
-18)Tümünü gör ve takip et yazılarını sağa yerleştirme
-19)Tüm sayfanın arka plan renkleri instagram'dan alıp uygulama
+10) Hikayeler kısmındaki resim ve isimleri hizalama
+11) İçerik kısmında üç nokta sağa yerleştirme
+12) Beğenme, yorum ve paylaşma kısmından border kaldırma
+13) Bookmark ikonunun offseti 7 birim verme
+14) Card header ve card footer beyaz renk yapma
+15) Yorum paylaş metnini sağa yerleştirme
+16) Sağ panel genişliğini düzenleme
+17) Sağ paneli sticky yapma, border kaldırıp arka planı beyaz yapma
+18) Tümünü gör ve takip et yazılarını sağa yerleştirme
+19) Tüm sayfanın arka plan renkleri instagram'dan alıp uygulama
